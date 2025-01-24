@@ -1,5 +1,7 @@
 # **Docker Troubleshooting Guide for Beginners: Handling Common Errors**
 
+![image](https://github.com/user-attachments/assets/b7268038-96b0-4d62-8392-870a22fad39f)
+
 Docker is a powerful tool for containerizing applications, but as a beginner, you might face errors that can feel overwhelming. This guide walks you through **common Docker issues**, explains what they mean, and provides **step-by-step solutions**.
 
 ---
